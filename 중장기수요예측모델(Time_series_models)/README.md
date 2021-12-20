@@ -3,6 +3,7 @@
 ### 시계열모델 비교  
   
 - SARIMAX
+- <span style="color:RED">GRU(최종모델선정)</span>
 - GRU(최종모델선정)
 - BILSTM  
   
