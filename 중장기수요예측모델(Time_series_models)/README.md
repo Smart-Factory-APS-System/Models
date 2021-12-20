@@ -14,7 +14,7 @@
   
 ### 최종 모델 선정  
   
-RMSE와 $R**2$ 기준으로 성능이 좋았던 케라스의 GRU 모델을 최종모델로 선정.
+RMSE와 R-squared score 기준으로 성능이 좋았던 케라스의 GRU 모델을 최종모델로 선정.
   
   
 ![스마트팩토리_발표 pptx (2)](https://user-images.githubusercontent.com/86215668/146763791-ebcb025a-14b4-4d1e-959f-ac96597d9943.jpg)
