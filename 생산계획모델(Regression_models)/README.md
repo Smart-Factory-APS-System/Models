@@ -5,7 +5,7 @@
 - Ridge
 - Lasso
 - DecisionTreeRegeressor
-- RandomForestRegressor
+- RandomForestRegressor(최종모델선정)
 - XGBRegressor
 - LGBMRegressor
 
