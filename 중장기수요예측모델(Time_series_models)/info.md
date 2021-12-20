@@ -13,5 +13,7 @@
 RMSE와 $R**2$ 기준으로 성능이 좋았던 케라스의 GRU 모델을 최종모델로 선정.
 
   
-![스마트팩토리_발표 pptx](https://user-images.githubusercontent.com/86215668/146763490-457227fc-82cc-4e02-8a78-bc1b3a0d1820.jpg)
+![스마트팩토리_발표 pptx](https://user-images.githubusercontent.com/86215668/146763490-457227fc-82cc-4e02-8a78-bc1b3a0d1820.jpg)  
+  
+![스마트팩토리_발표 pptx (1)](https://user-images.githubusercontent.com/86215668/146763565-ea809f4d-9ae2-4e78-b074-418760393ded.jpg)
 
