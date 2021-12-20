@@ -15,9 +15,11 @@
 시멘트 수요와 상관도가 높았고 계절성까지 고려된 건축착공면적을 독립변수로 활용하여  
 회귀분석을 통해 조금 더 정교한 일별 수요예측을 진행  
   
-### 최종 모델 선정  
+### 최종 모델 선정
+  
 R-squared score가 가장 높았던 RandomForestRegressor을 최종 모델로 선정  
 기존 시스템 대비 정확도 약 25% 개선
+  
   
 ![스마트팩토리_발표 pptx](https://user-images.githubusercontent.com/86215668/146765618-901176bb-0d3f-4dba-901e-f68517a06ca4.jpg)
   
