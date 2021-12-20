@@ -3,8 +3,7 @@
 ### 시계열모델 비교  
   
 - SARIMAX
-- <span style="color:red"> GRU(최종모델선정) </span>
-- GRU(최종모델선정)
+#### - GRU(최종모델선정)
 - BILSTM  
   
 ### 데이터셋  
